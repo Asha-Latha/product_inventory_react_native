@@ -1,0 +1,54 @@
+{
+  "addproducts": [
+    {
+      "image": "https://www.gizbot.com/images/2019-07/vivo-s1_156352984560.jpg",
+      "productName": "Samsung",
+      "productDescription": "jkasghui",
+      "productCategory": "mobile",
+      "productQuantity": "23",
+      "productPrice": "yes",
+      "productStock": "2300",
+      "id": 8
+    },
+    {
+      "image": "https://image.shutterstock.com/image-photo/mens-clothing-business-clothes-men-260nw-1212614509.jpg",
+      "productName": "white Shirts",
+      "productDescription": "shirts shirts",
+      "productCategory": "Short hands",
+      "productQuantity": "2",
+      "productPrice": "no",
+      "productStock": "2300",
+      "id": 9
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYkkOR9G3kGJ_QbbDVx1VPHCzrODqCIt4o8A&usqp=CAU",
+      "productName": "Oppo",
+      "productDescription": "camera",
+      "productCategory": "mobiles",
+      "productQuantity": "2",
+      "productPrice": "no",
+      "productStock": "23000",
+      "id": 10
+    },
+    {
+      "image": "https://image.made-in-china.com/2f0j00uzDfnkpLJQqF/Bulk-Sales-Polyester-Fitted-Men-Tshirt-Black-T-Shirt-Blank-Tee-Shirts.jpg",
+      "productName": "Tee",
+      "productDescription": "clothing clothing ",
+      "productCategory": "clothing",
+      "productQuantity": "2",
+      "productPrice": "yes",
+      "productStock": "2300",
+      "id": 11
+    },
+    {
+      "image": "https://www.freepngimg.com/thumb/samsung_mobile_phone/1-2-samsung-mobile-phone-free-png-image-thumb.png",
+      "productName": "readme",
+      "productDescription": "mobile mobile",
+      "productCategory": "mobiles",
+      "productQuantity": "2",
+      "productPrice": "yes",
+      "productStock": "2300",
+      "id": 13
+    }
+  ]
+}
